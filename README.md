@@ -1,9 +1,9 @@
 # Supply Chain Risk Monitor
-### A data analysis project by [Your Name]
+### A data analysis project by Janine Park
 
 ---
 
-## Client Brief
+## Client Context
 
 A major CPG company with ~$98M in annual supplier spend across six commodity categories needs to identify which suppliers pose the greatest operational risk heading into Q3. The VP of Operations has three questions:
 
@@ -81,7 +81,7 @@ python3 01_setup_db.py
 # Step 2: Generate commodity price data
 python3 02_generate_data.py
 
-# Step 3: Run SQL analysis (prints results to console)
+# Step 3: Run SQL analysis
 python3 03_analysis.py
 
 # Step 4: Generate visualizations
